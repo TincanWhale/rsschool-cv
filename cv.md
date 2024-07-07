@@ -5,7 +5,7 @@
   * Discord: gear_orca
   * Github: [tincanwhale](https://github.com/TincanWhale) 
 ## BIO:
-  I became interested in programming a few years ago, although couldn't find the opportunity or willpower to start studying it seriously, but now I think I'm ready. Or at least will trygiy my best. 
+  I became interested in programming a few years ago, although couldn't find the opportunity or wilglpower to start studying it seriously, but now I think I'm ready. Or at least will try my best. 
 ## Skills:
    + GitHub
    + Blender 3D
