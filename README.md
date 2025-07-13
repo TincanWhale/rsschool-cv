@@ -1,2 +1,1 @@
-File for reading
-# rsschool-cv
+https://TincanWhale.github.io/rsschool-cv/cv
