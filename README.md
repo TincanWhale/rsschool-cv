@@ -1,1 +1,1 @@
-https://TincanWhale.github.io/rsschool-cv/cv
+https://TincanWhale.github.io/rsschool-cv/
